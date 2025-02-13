@@ -1,14 +1,4 @@
-<p align="left">
-<a href="https://www.ssp.sh/" target="_blank"><img src="https://ssp.sh/images/sspaeti_quadrat.png" height="100"/></a>
-</p>
 
-# Practical Data Engineering: A Hands-On Real-Estate Project Guide
-
-[![Open Source Logos](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/images/open-source-logos.png)](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/)
-
-This repository containts a practical implementation of a data engineering project that spans across web-scraping real-estates, processing with Spark and Delta Lake, adding data science with Jupyter Notebooks, ingesting data into Apache Druid, visualizing with Apache Superset, and managing workflows with Dagster—all orchestrated on Kubernetes. 
-
-**Built your own DE project or forked mine? Let me know in the comments; I'd be curious to know more about.**
 
 ## 🌟 About This Project
 
